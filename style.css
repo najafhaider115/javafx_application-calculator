@@ -1,0 +1,41 @@
+*
+{
+  -fx-background-color:rgb(147, 147, 238);
+  
+}
+.grid
+{
+  -fx-border-color:black;
+  -fx-border-width:2px;
+}
+.button
+{
+  -fx-background-color: rgb(122, 122, 224);
+  -fx-border-color: white;
+  -fx-border-width:1px;
+  -fx-color:white;
+  -fx-font-weight:bold;
+}
+.grid
+{
+  -fx-background-color: pink;
+}
+.label
+{
+    -fx-background-color:rgb(147, 147, 238);
+    -fx-color:white;
+  -fx-font-weight:bold;
+   -fx-font-size:18;
+  -fx-width:100%;
+  -fx-text-align:center;
+}
+
+Text
+{
+  -fx-font-weight:bold;
+}
+TextField,PasswordField
+{
+  -fx-border-color: white;
+  -fx-border-width:1px;
+}
